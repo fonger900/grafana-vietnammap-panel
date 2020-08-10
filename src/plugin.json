@@ -1,7 +1,7 @@
 {
   "type": "panel",
-  "name": "Worldmap Panel",
-  "id": "grafana-worldmap-panel",
+  "name": "Vietnammap Panel",
+  "id": "grafana-vietnammap-panel",
 
   "info": {
     "description": "World Map panel for Grafana. Displays time series data or geohash data from Elasticsearch overlaid on a world map.",
@@ -9,7 +9,7 @@
       "name": "Grafana Labs",
       "url": "https://grafana.com"
     },
-    "keywords": ["worldmap", "panel"],
+    "keywords": ["vietnammap", "panel"],
     "logos": {
       "small": "images/worldmap_logo.svg",
       "large": "images/worldmap_logo.svg"
